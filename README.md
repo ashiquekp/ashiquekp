@@ -1,17 +1,25 @@
 # Hi, I'm Ashique 👋
 
-**Flutter Developer (3+ years) transitioning into IoT & Embedded Systems**
+**Flutter Developer (3+ years) | Mobile + IoT/Embedded (ESP32 • MQTT • BLE)**
 
-I build mobile apps that talk to hardware — pairing production Flutter development with ESP32-based embedded systems over MQTT and BLE.
+I build production mobile apps — and, alongside that, mobile apps that talk to hardware.
 
+- 💼 3+ years shipping production Flutter apps (Play Store & App Store, 4.5+ star ratings)
 - 🔭 Currently completing a Flutter + IoT diploma (Skilshore Education)
 - 🌱 Learning: PlatformIO, BLE/GATT design, RTOS fundamentals
-- 💬 Ask me about: Flutter state management, MQTT/BLE communication design, ESP32 firmware
+- 💬 Ask me about: Flutter architecture & state management, REST/Firebase integration, MQTT/BLE communication design, ESP32 firmware
 - 📫 Reach me: ashiquekp101@gmail.com | [LinkedIn](https://linkedin.com/in/ashique-kp-flutter-dev)
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Professional Flutter Experience
+
+3+ years at **Glaubetech Inventions Pvt Ltd**, delivering 5+ production Flutter apps for logistics and SaaS platforms — state management (Riverpod, Provider, BLoC), REST API integration, Firebase, and real-time Google Maps/location features. Also built freight management, logistics SaaS, and server-deployment mobile apps across different problem domains.
+`Flutter` `Dart` `Riverpod` `BLoC` `Firebase` `REST APIs` `Google Maps`
+
+---
+
+## 🚀 IoT / Embedded Projects
 
 ### 📡 [EnviroMonitor](https://github.com/ashiquekp/flutter-iot-environment-monitor)
 Real-time Flutter + ESP32-C3 environmental monitoring system. Sensor data streams live over MQTT, with historical charting, threshold alerts, and hardware control from the app.
@@ -35,4 +43,4 @@ BLE-based smart RGB lighting controller with a custom binary protocol (versioned
 
 ---
 
-*B.Tech in Electronics & Communication Engineering — building the bridge between mobile software and embedded hardware.*
+*B.Tech in Electronics & Communication Engineering — open to Flutter Developer roles and Flutter + IoT / Embedded Software Engineer roles alike.*
